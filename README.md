@@ -29,7 +29,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 <h3>Configure Roles (for grouping permissions)</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Admin Panel -> Agents -> Roles </br>
+
+We're creating a Supreme Admin that has full ticket and task permissions. 
+
 </p>
 <br />
 
@@ -37,6 +40,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/rdGK0QB.png" height="80%" width="80%" alt=""/>
 </p>
 
+<h3>Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)</h3>
+<p>
+Admin Panel -> Agents -> Departments
+
+SysAdmins
+</p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/X1vZczQ.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
+
+<h3>Configure Teams</h3>
+<p>
+Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
+
+Online Banking
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xGD5cA8.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
+
+<h3>Allow anyone to create tickets</h3>
+<p>
+Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+Registration Required: Require registration and login to create tickets 
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xGD5cA8.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
 
