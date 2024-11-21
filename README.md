@@ -147,7 +147,7 @@ Other
 <br />
 
 <p>
-<img src="https://i.imgur.com/hI3tyZd.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/9r7ZcSS.png" height="80%" width="80%" alt=""/>
 </p>
 
 <br />
