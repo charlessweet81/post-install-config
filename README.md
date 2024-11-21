@@ -79,8 +79,75 @@ Registration Required: Require registration and login to create tickets
 <br />
 
 <p>
-<img src="https://i.imgur.com/xGD5cA8.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/7BHDtLT.png" height="80%" width="80%" alt=""/>
 </p>
 
 <br />
 
+<h3>Configure Agents (workers)</h3>
+<p>
+Admin Panel -> Agents -> Add New
+Jane (Dept: SysAdmins)
+John (Dept: Support)
+
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nltsWcW.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
+
+<h3>Configure Users (customers)</h3>
+<p>
+Agent Panel -> Users -> Add New
+Karen
+Ken
+
+
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ovbDcqP.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
+
+<h3>Configure SLA</h3>
+<p>
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hI3tyZd.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
+
+<h3>Configure Help Topics (For when users create a ticket)</h3>
+<p>
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
+Other
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hI3tyZd.png" height="80%" width="80%" alt=""/>
+</p>
+
+<br />
