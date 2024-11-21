@@ -3,7 +3,9 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This walkthrough covers the step-by-step configuration of a ticketing and help desk system in a Microsoft Azure environment, focusing on Virtual Machines, Remote Desktop, and Internet Information Services (IIS). <br /><br />
+
+The configuration ensures a streamlined setup for roles, departments, teams, agents, users, SLAs, and help topics. <br />
 
 <h2>Environments and Technologies Used</h2>
 
